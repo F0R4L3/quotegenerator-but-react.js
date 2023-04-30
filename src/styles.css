@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "HYWenHei 85W";
+  font-style: normal;
+  font-weight: normal;
+  src: local("HYWenHei 85W"), url("../font/zhcn.woff");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+  font-family: "HYWenHei 85W";
+  color: white;
+}
